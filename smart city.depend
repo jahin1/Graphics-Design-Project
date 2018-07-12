@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513240904 source:d:\aiub 9th semester\computer graphics [a]\smart city\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+
